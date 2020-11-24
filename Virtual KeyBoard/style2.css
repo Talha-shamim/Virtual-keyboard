@@ -1,0 +1,71 @@
+.btn{
+    width:7%;
+    height: 100%;
+}
+.small{
+    width: 4%;
+}
+.long{
+    width: 14%;
+}
+.s-long{
+    width: 13%;
+}
+.l-long{
+    width: 15%;
+}
+.v-long{
+    width: 35%;
+}
+.rows-1, .rows-2, .rows-3 , .rows-4 {
+    margin: 4px;
+    left :5%;
+}
+.rows-5{
+    margin: 4px;
+    left :27%;
+}
+
+
+.keyboard-btn{
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.btn-wrapper{
+    background-color: black;
+    left : 10%;
+    right :10%;
+    bottom : 0;
+    position: fixed;
+    height: 50%;
+}
+
+#invisible{
+    visibility: hidden;
+}
+
+.hide{
+    visibility: hidden;
+}
+
+/*input*/
+.input{
+    width: 100%;
+    margin-top: 30px;
+    border:3px solid #008000 ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500;
+    font-size: larger;
+}
+
+.intro{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-style: oblique;
+    font-size: large;
+    font-weight:1000;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
